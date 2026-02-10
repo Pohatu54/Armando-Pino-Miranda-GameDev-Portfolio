@@ -1,0 +1,22 @@
+4/feb/2026
+0.0.0 Origin Update
+- 0.0.0 is showed as final proyect for Málaga's EOI (Escuela Organización Industrial).
+5/feb/2026
+0.0.1 Pause Update
+- Added Pause Screen
+- Added some SFX
+- Added SFX settings to Pause Screen
+- Fixed bug that did not reset the party composition after going back to the character creation menu.
+6/feb/2026
+0.0.2 UI Update
+- Enemy healthbars removed
+- Instead of having 4 UI sections, each dedicated to a specific party member among the originals (not summoned like wolves),
+  now there is only one UI section showing all the data about the turn's active character.
+8/feb/2026
+0.1.0 Lore Update
+- Before the Goblin Dungeon adventure begins, now a text pops up explaining the situation in the lore.
+- UI changes: character data, pause button, cards and turn section have been rearranged. Now the shield icon appears
+on the character data UI section, instead of floating above the characters.
+- Added more SFX, fixed SFX system
+- Code optimizations
+- Credits added
