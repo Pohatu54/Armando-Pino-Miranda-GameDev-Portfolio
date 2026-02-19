@@ -20,3 +20,5 @@ on the character data UI section, instead of floating above the characters.
 - Added more SFX, fixed SFX system
 - Code optimizations
 - Credits added
+******unknown update adn date*****
+- Upgrades on character creation menu

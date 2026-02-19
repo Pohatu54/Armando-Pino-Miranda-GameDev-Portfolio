@@ -1,0 +1,40 @@
+- Mouse controls:
+	- Mouse wheel clic and move mouse to look around
+	- Scroll mouse wheel to get closer or further
+	- Shift + hold mouse wheel clic to pan around
+- Change mode: upper left on screen: object mode, edit mode, pose mode... (also press Tab to change)
+- Creating object: In object or edit mode: Shift+A: (basic figures included in Mesh such as a cube)
+- Edit mode selection:
+	In upper left on screen, choose vertex, edge or face. This will affect what you can clic and edit on your piece.
+- Tools in edit mode:
+	- Can be accesed on the left on screen or through keyboard shortcuts
+	- Extrude: Shift + E: Extrude outwards or inwards.
+	(Pressing Alt+E instead, going to extrude manifold, is sometimes necessary to prevent fails in mesh)
+	- Bevel: Shift + Control + B: Create bevels to round an edge. Use mouse scroll to change precision.
+	- Loop cut: Shift + Control + R: Cut your mesh into smaller parts, especially useful to extrude or shape
+	certain areas.
+	- Knife: Shift + K: Clic connected dots in a surface to perform a cut shaped as you want. Can be used to
+	split pieces or draw specific shapes to modify. For example: I used the knife to draw my character eyes
+	and later extrude them.
+	- Smooth: Soften hard edges and make everything look uniform.
+- MOST IMPORTANT SHORTCUTS:
+	- Press G to move a piece around.
+	- Press R to rotate a piece.
+	- Press S to scale a piece.
+	- Pressing G, R, or S + X, Y or Z will affect only the chosen axis.
+	- Shift + D to duplicate an item. Before clicking to save it as it is, you can use the previous shortcuts to edit properly.
+- Armature and pose mode:
+	- Add an armature (single bone) with Shift+A.
+	- In object mode, with armature clicked, go to the stickman icon on the down right part of the screen.
+	Go to viewport display, mark in front. This way bones will always be visible for you.
+	- In edit mode, you can edit bones with the most important shortcuts.
+	- Clic on one tip of a bone to do two things. Press G to change the longitude and orientation of a bone, or press E
+	to extrude a new bone out of it.
+	- Clic a piece in object mode, hold shift, clic the armature. Change to pose mode, clic the preferred bone,
+	press Control + P, and choose bone on the menu. This will attach a specific bone to a desired piece.
+	- In pose mode, you can clic a bone, use G or R to move and rotate the piece.
+- Export to use in Unity:
+	- Go to file on the upper left on screen, where you find save and export. Export as FBX to obtain the 3D model,
+	then it can be imported as a custom asset from your computer into your Unity project.
+
+**This tutorial is free for you to use, share and edit. I will be updating it when I learn something useful. Thanks!**
