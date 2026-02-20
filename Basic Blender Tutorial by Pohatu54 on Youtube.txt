@@ -37,4 +37,12 @@
 	- Go to file on the upper left on screen, where you find save and export. Export as FBX to obtain the 3D model,
 	then it can be imported as a custom asset from your computer into your Unity project.
 
+- Animation:
+	- Bottom of the screen shows the timeline of your animation.
+	- Activate auto-keying (basically a camera's REC button). Make sure it is always active,
+	OTHERWISE IT WONT SAVE ANYTHING
+	- Move, rotate, scale your object. Use the pose mode too if it is rigged. Clic on a point in the timeline,
+	press I and the keyframe will be added.
+	- Now you can press play (like in a video) and your animation will be shown.
+
 **This tutorial is free for you to use, share and edit. I will be updating it when I learn something useful. Thanks!**
