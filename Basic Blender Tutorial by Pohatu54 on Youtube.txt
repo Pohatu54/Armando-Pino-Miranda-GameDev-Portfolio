@@ -34,8 +34,17 @@
 	press Control + P, and choose bone on the menu. This will attach a specific bone to a desired piece.
 	- In pose mode, you can clic a bone, use G or R to move and rotate the piece.
 - Export to use in Unity:
+	- Select all the items, including armature if there is one.
 	- Go to file on the upper left on screen, where you find save and export. Export as FBX to obtain the 3D model,
 	then it can be imported as a custom asset from your computer into your Unity project.
+	- To also export animations, do the following steps too before exporting:
+		- Check limit to selected objects.
+		- Select "Z Forward" in "Forward" menu.
+		- Check "Apply Transform".
+		- Uncheck "Apply Modifiers" when not using modifiers.
+		- Check "Only Deform Bones" and uncheck "Add Leaf Bones".
+		- In "Animation" menu, uncheck "NLA Strips" and "Force Start".
+		- If your animations are not on the same timeline, check "All Actions".
 
 - Animation:
 	- Bottom of the screen shows the timeline of your animation.
@@ -44,5 +53,14 @@
 	- Move, rotate, scale your object. Use the pose mode too if it is rigged. Clic on a point in the timeline,
 	press I and the keyframe will be added.
 	- Now you can press play (like in a video) and your animation will be shown.
+	- You can right clic a frame in your timeline, duplicate, then move it to another time.
+	- You can also clic a frame on the timeline, and drag it to another time.
+	- Making several animations:
+		- Go to the clock icon in the timeline.
+		- Clic and select "Dope Sheet".
+		- Set mode to "Action Editor" next to the "Dope Sheet" icon.
+		- Change the name next to the shield icon when your animation is done. Clic the shield icon to save it.
+		Then you can open the selector left to that name to open other animations.
+		- Take into account that you need to go to the timeline mode (clock icon) to play and add key frames.
 
 **This tutorial is free for you to use, share and edit. I will be updating it when I learn something useful. Thanks!**
