@@ -22,6 +22,7 @@
 	- Press R to rotate a piece.
 	- Press S to scale a piece.
 	- Pressing G, R, or S + X, Y or Z will affect only the chosen axis.
+	- Pressing Shift+X,Y,Z affects the correspondent plane.
 	- Shift + D to duplicate an item. Before clicking to save it as it is, you can use the previous shortcuts to edit properly.
 - Armature and pose mode:
 	- Add an armature (single bone) with Shift+A.
