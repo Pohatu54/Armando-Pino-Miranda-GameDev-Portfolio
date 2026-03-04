@@ -20,5 +20,6 @@ on the character data UI section, instead of floating above the characters.
 - Added more SFX, fixed SFX system
 - Code optimizations
 - Credits added
-******unknown update adn date*****
+******unknown update and date*****
 - Upgrades on character creation menu
+- Human, dwarf, elf and orc skins updated with Blender models
