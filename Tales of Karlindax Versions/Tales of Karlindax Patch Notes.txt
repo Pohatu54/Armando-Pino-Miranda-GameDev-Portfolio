@@ -1,0 +1,10 @@
+4/apr/2026
+0.0.0 Day 1 Update
+- First version of the game, built from nothing on this single day.
+- Added player character
+- Added Skeleton as enemy
+- Added movement
+- Added health and cooldown systems
+- Added death screen
+- Added vertical slash attack
+- Models used are the same as in Order of Karlindax
