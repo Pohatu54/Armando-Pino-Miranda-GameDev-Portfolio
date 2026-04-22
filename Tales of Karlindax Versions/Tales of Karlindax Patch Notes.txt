@@ -8,3 +8,9 @@
 - Added death screen
 - Added vertical slash attack
 - Models used are the same as in Order of Karlindax
+22/apr/2026
+0.0.1 Dodge and rest Update
+- Added pause menu
+- Update on map design
+- Added dodge (jump back)
+- Added stamina
