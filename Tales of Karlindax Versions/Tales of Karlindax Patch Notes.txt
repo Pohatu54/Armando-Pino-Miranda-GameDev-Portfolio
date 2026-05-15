@@ -14,3 +14,10 @@
 - Update on map design
 - Added dodge (jump back)
 - Added stamina
+*fecha sin confirmar*
+0.0.2
+- Added health and stamina bars on UI
+- Enemy AI upgrades: now enemies roam around aimlessly and only follow and attack the player while they are on sight
+- Movement upgrades: now the player moves with physics. The player now rotates following the mouse position
+and can walk sideways as well.
+- Added controls on UI
