@@ -14,10 +14,14 @@
 - Update on map design
 - Added dodge (jump back)
 - Added stamina
-*fecha sin confirmar*
-0.0.2
+19/may/2026
+0.1.0 Ready to fight Update
 - Added health and stamina bars on UI
 - Enemy AI upgrades: now enemies roam around aimlessly and only follow and attack the player while they are on sight
 - Movement upgrades: now the player moves with physics. The player now rotates following the mouse position
 and can walk sideways as well.
 - Added controls on UI
+- Enemies now don't disappear upon dying
+- Added lock on system to target enemies
+- Text font has been changed to use the same as the game "Order of Karlindax"
+- Added main menu
