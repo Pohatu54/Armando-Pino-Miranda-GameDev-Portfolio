@@ -64,6 +64,7 @@
 		- Go to the clock icon in the timeline.
 		- Clic and select "Dope Sheet".
 		- Set mode to "Action Editor" next to the "Dope Sheet" icon.
+		- Clic new action (two papers icon) to add a new animation by copying a previous one.
 		- Change the name next to the shield icon when your animation is done. Clic the shield icon to save it.
 		Then you can open the selector left to that name to open other animations.
 		- Take into account that you need to go to the timeline mode (clock icon) to play and add key frames.

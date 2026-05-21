@@ -25,3 +25,6 @@ and can walk sideways as well.
 - Added lock on system to target enemies
 - Text font has been changed to use the same as the game "Order of Karlindax"
 - Added main menu
+*Unknown date and update*
+- Added a proper main hitbox.
+- Player can now block attacks. Doing so consumes stamina and reduces damage when hit. Can't block without stamina.
