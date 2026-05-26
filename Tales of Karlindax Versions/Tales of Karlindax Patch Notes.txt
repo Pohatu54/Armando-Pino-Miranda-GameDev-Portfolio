@@ -33,3 +33,6 @@ and can walk sideways as well.
 - Player fully animated.
 - Skeleton fully animated.
 - Added backstabs.
+*unknown update and date*
+- Player can now pick up items (loot) and save them in an inventory.
+- Added items: Rusty Sword / Old Wooden Shield
