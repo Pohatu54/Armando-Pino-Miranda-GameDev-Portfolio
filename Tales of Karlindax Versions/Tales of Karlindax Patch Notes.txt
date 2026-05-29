@@ -33,7 +33,9 @@ and can walk sideways as well.
 - Player fully animated.
 - Skeleton fully animated.
 - Added backstabs.
-*unknown update and date*
+29/may/2026
+0.2.0 Inventory Update
 - Player can now pick up items (loot) and save them in an inventory.
-- Added items: Rusty Sword / Old Wooden Shield
+- Added items: Rusty Sword / Old Wooden Shield / Shortbow / Arrow / Worn-out robes / Small potion
 - Player can now open and close the inventory, and also check the full info of a selected item.
+- Ammo and consumable items can be stacked.
