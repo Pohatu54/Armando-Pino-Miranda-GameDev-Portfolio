@@ -39,3 +39,8 @@ and can walk sideways as well.
 - Added items: Rusty Sword / Old Wooden Shield / Shortbow / Arrow / Worn-out robes / Small potion
 - Player can now open and close the inventory, and also check the full info of a selected item.
 - Ammo and consumable items can be stacked.
+*unknown date and update*
+- Player can now equip up to 4 items (mainhand, offhand, armor set and consumable item) which are shown in inventory
+- Equipped items now show up on the player's model (using placeholder models).
+- Attacking with a melee weapon now uses said weapon's hitbox, instead of an "attack object" appearing on air.
+- Attacking with a bow now shoots an arrow and removes one arrow from inventory.
