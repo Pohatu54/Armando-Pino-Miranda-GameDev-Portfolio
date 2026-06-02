@@ -44,3 +44,8 @@ and can walk sideways as well.
 - Equipped items now show up on the player's model (using placeholder models).
 - Attacking with a melee weapon now uses said weapon's hitbox, instead of an "attack object" appearing on air.
 - Attacking with a bow now shoots an arrow and removes one arrow from inventory.
+- Weapons' base and backstab damage are now multiplied by the wielder's attack stat.
+- Before this update, a regular attack always did 1 damage and a backstab did 2 damage. Now damage depends on the weapon and wielder.
+- Skeleton enemy's health increased from 2 to 10. Player's health increased from 3 to 10.
+- Skeleton enemy now wields a Rusty Sword instead of attacking with an "attack object" appearing on air.
+- Skeleton enemy's attack stat is 0.8. Player's is 1.
