@@ -51,4 +51,7 @@ and can walk sideways as well.
 - Skeleton enemy's attack stat is 0.8. Player's is 1.
 - Before this update, if you were hit while blocking with a shield you lost 0.5 health. Now damage is reduced according
 to the shield's damage reduction stat instead.
-- Blocking with a shield and attacking with a melee weapon consumes 1 durability.
+- Blocking with a shield and attacking with a weapon consumes 1 durability.
+- Wearing armor reduces damage according to its damage reduction stat when hit while not blocking with a shield. Unlike
+shields, armors can reduce backstab damage.
+- Receiving an attack while not blocking with a shield reduces armor's durability by 1.
