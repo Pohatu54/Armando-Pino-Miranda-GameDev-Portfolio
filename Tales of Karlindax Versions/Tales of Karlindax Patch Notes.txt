@@ -55,3 +55,6 @@ to the shield's damage reduction stat instead.
 - Wearing armor reduces damage according to its damage reduction stat when hit while not blocking with a shield. Unlike
 shields, armors can reduce backstab damage.
 - Receiving an attack while not blocking with a shield reduces armor's durability by 1.
+- When an item's durability reaches 0, it is destroyed.
+- Rusty Sword's ID changed from 0 to 99 to prevent a bug of it not showing up on inventory.
+- Player can now use consumable items, like potions.
