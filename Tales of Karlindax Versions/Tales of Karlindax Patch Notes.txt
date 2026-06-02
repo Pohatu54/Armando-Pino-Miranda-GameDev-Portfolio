@@ -49,3 +49,6 @@ and can walk sideways as well.
 - Skeleton enemy's health increased from 2 to 10. Player's health increased from 3 to 10.
 - Skeleton enemy now wields a Rusty Sword instead of attacking with an "attack object" appearing on air.
 - Skeleton enemy's attack stat is 0.8. Player's is 1.
+- Before this update, if you were hit while blocking with a shield you lost 0.5 health. Now damage is reduced according
+to the shield's damage reduction stat instead.
+- Blocking with a shield and attacking with a melee weapon consumes 1 durability.
