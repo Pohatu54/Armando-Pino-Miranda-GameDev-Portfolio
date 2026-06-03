@@ -59,3 +59,10 @@ shields, armors can reduce backstab damage.
 - When an item's durability reaches 0, it is destroyed.
 - Rusty Sword's ID changed from 0 to 99 to prevent a bug of it not showing up on inventory.
 - Player can now use consumable items, like potions.
+*unknown date and update*
+- You can now check your stats on the left part of the inventory.
+- Player now has a name, a level, experience, and experience to level up.
+- Player stamina regen now depends on a "stamina regen speed" stat, which base value is 0.2/second (the default value
+prior to this update).
+- Player has now a stat to measure the full weight of your equipment.
+- Player has now a money stat.
