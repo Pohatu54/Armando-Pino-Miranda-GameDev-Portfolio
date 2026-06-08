@@ -74,3 +74,5 @@ prior to this update).
 - Player can now open a level up menu from inventory to increase 4 stats (choose one per level):
 +1 max health, +0.2 max stamina, +10% stamina regen speed, +0.1 attack
 - Level up menu can only be open if player has enough experience to level up.
+- Added new enemy: Skeleton Archer (uses a shortbow, attack 0.8, health 6)
+(loot: exp 3, money 2, arrow: 2 units)
