@@ -76,3 +76,8 @@ prior to this update).
 - Level up menu can only be open if player has enough experience to level up.
 - Added new enemy: Skeleton Archer (uses a shortbow, attack 0.8, health 6)
 (loot: exp 3, money 2, arrow: 2 units)
+- Previous invisible walls are now 3ds Max textured models. (Castle wall)
+- Added Castle walls with an arch to go through. (Castle wall door)
+- Added Rusty Sword model.
+- Added Old Wooden Shield model.
+- Added Shortbow model.
