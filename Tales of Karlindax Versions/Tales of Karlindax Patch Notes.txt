@@ -81,3 +81,5 @@ prior to this update).
 - Added Rusty Sword model.
 - Added Old Wooden Shield model.
 - Added Shortbow model.
+- Added Arrow and Arrow Quiver models.
+- Added Small Potion model.
