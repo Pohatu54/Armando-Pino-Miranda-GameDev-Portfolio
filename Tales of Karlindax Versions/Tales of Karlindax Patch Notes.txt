@@ -70,7 +70,8 @@ prior to this update).
 - Player speed is now reduced by the weight of your equipment.
 - Enemies now drop loot upon death. They drop experience, money, and items.
 - Skeleton enemy drops: 2 experience, 1 coin, Rusty Sword.
-*unknown update and date*
+11/jun/2026
+0.3.2 Level Up Update
 - Player can now open a level up menu from inventory to increase 4 stats (choose one per level):
 +1 max health, +0.2 max stamina, +10% stamina regen speed, +0.1 attack
 - Level up menu can only be open if player has enough experience to level up.
@@ -83,3 +84,6 @@ prior to this update).
 - Added Shortbow model.
 - Added Arrow and Arrow Quiver models.
 - Added Small Potion model.
+- Added enemy loot model, looking like a cloth sack.
+- Added chest loot model.
+- Added Worn-out robes model.
