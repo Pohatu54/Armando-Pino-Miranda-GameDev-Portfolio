@@ -87,3 +87,7 @@ prior to this update).
 - Added enemy loot model, looking like a cloth sack.
 - Added chest loot model.
 - Added Worn-out robes model.
+*unknown date and update*
+- Inventory slots are now properly updated when an item is removed.
+- There is now an option to destroy items from inventory using a button.
+- Added new item: Shortsword (a better version of the Rusty Sword)
