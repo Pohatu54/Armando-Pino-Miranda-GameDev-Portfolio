@@ -87,7 +87,10 @@ prior to this update).
 - Added enemy loot model, looking like a cloth sack.
 - Added chest loot model.
 - Added Worn-out robes model.
-*unknown date and update*
+15/jun/2026
+0.3.3 Sword and shield Update
 - Inventory slots are now properly updated when an item is removed.
 - There is now an option to destroy items from inventory using a button.
 - Added new item: Shortsword (a better version of the Rusty Sword)
+- While inventory is open, the player can no longer move, attack, etc.
+- Added new item: Wooden Shield (a better version of the Old Wooden Shield, slightly heavier)

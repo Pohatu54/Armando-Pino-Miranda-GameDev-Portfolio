@@ -1,0 +1,34 @@
+- id: 99 name: "Rusty Sword" shield/bow/melee: melee base/backstab damage: 3/4 armor: damage reduction:0 consumable: ammo: healing:0
+  weight: 2 price: 6 durability: 30 description: An old, low quality sword which suffered the pass of time. Better find a new one.
+
+- id: 1 name: "Old Wooden Shield" shield/bow/melee: shield base/backstab damage: 0 armor: damage reduction: 0.1 consumable: ammo: healing:0
+  weight: 5 price: 4 durability: 30 description: This kind of round, wooden shields are cheap and recommended for training. This one
+  has been used to its limit, however.
+
+- id: 2 name: "Shortbow" shield/bow/melee: bow base/backstab damage: 2/3 armor: damage reduction:0 consumable: ammo: healing:0
+  weight: 1 price: 6 durability: 30 description: The standard ranged weapon for any adventurer. Light, cheap and easy to use.
+
+- id: 3 name: "Arrow" shield/bow/melee: base/backstab damage: 0 armor: damage reduction:0 consumable: ammo: true healing:0
+  weight: 0.1 price: 1 durability:0 description: Every bow requires ammo to shoot. The effectiveness depends on the bow and
+wielder only, however.
+
+- id: 4 name: "Worn-out robes" shield/bow/melee: base/backstab damage:0 armor: true damage reduction: 0.1 consumable: ammo: healing:0
+  weight: 2 price: 4 durability: 30 description: These robes were never good, and they are so worn-out you can barely use them
+to dress yourself.
+
+- id: 5 name: "Small potion" shield/bow/melee: base/backstab damage:0 armor: damage reduction:0 consumable:true ammo: healing:5
+  weight:0.2 price: 2 durability:0 description: The simplest form of healing. Made with a mix of easy-to-find medicinal plants.
+
+- id: 6 name: "Shortsword" shield/bow/melee: melee base/backstab damage: 4/6 armor: damage reduction:0 consumable: ammo: healing:0
+  weight:1.5 price: 10 durability: 50 description: A new, good quality sword, free of rust. Recommended for new adventurers.
+
+- id: 7 name: "Wooden Shield" shield/bow/melee: shield base/backstab damage: 0 armor: damage reduction:0.2 consumable: ammo: healing: 0
+  weight:5.5 price: 8 durability: 60 description: This kind of round, wooden shields are cheap and recommended for training. This one
+is in great condition.
+
+- id: name: shield/bow/melee: base/backstab damage: armor: damage reduction: consumable: ammo: healing:
+  weight: price: durability: description: 
+
+- id: name: shield/bow/melee: base/backstab damage: armor: damage reduction: consumable: ammo: healing:
+  weight: price: durability: description: 
+
