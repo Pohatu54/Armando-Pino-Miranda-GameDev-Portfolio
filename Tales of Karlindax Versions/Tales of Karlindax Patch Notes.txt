@@ -104,3 +104,6 @@ prior to this update).
 - Added new enemy: Skeleton Shield (is a regular Skeleton but using an Old Wooden Shield, so it has a 0.1 shield stat)
 - Skeleton Shield drops Old Wooden Shield, 2 xp and 2 coins.
 - From now on, some enemies will have the ability to block attacks periodically, using a shield stat to reduce damage proportionally.
+- Added new enemy: Skeleton Boss (equipped with Shortsword, Wooden Shield and Cloth Robes) (twice as big as regular Skeleton)
+- Skeleton Boss stats: 1.2 attack, 15 health, 0.2 damage reduction, 0.2 shield
+- Skeleton Boss drops Shortsword, 10 xp and 5 coins.
