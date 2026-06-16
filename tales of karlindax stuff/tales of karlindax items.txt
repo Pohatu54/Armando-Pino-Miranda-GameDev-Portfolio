@@ -26,8 +26,8 @@ to dress yourself.
   weight:5.5 price: 8 durability: 60 description: This kind of round, wooden shields are cheap and recommended for training. This one
 is in great condition.
 
-- id: name: shield/bow/melee: base/backstab damage: armor: damage reduction: consumable: ammo: healing:
-  weight: price: durability: description: 
+- id: 8 name: "Cloth Robes" shield/bow/melee: base/backstab damage:0 armor: true damage reduction:0.2 consumable: ammo: healing:0
+  weight: 2.5 price: 8 durability:60 description: These comfy robes are soft and durable, offering a decent protection.
 
 - id: name: shield/bow/melee: base/backstab damage: armor: damage reduction: consumable: ammo: healing:
   weight: price: durability: description: 

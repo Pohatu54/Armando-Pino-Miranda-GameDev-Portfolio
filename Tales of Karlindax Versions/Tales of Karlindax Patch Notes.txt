@@ -94,3 +94,13 @@ prior to this update).
 - Added new item: Shortsword (a better version of the Rusty Sword)
 - While inventory is open, the player can no longer move, attack, etc.
 - Added new item: Wooden Shield (a better version of the Old Wooden Shield, slightly heavier)
+*unknown date and update*
+- Added new item: Cloth Robes (a better version of the Worn-out robes, slightly heavier)
+- Player can no longer carry more than 8 items (the amount of slots shown in inventory)
+- Scenario updated.
+- Added new enemy: Skeleton Dressed (is a regular Skeleton but wearing Worn-out robes, so it has a 0.1 damage reduction bonus)
+- Skeleton Dressed drops Worn-out robes, 3 xp and 2 coins.
+- From now on, some enemies will have a damage reduction bonus according to their armor, tough skin, or other reasons.
+- Added new enemy: Skeleton Shield (is a regular Skeleton but using an Old Wooden Shield, so it has a 0.1 shield stat)
+- Skeleton Shield drops Old Wooden Shield, 2 xp and 2 coins.
+- From now on, some enemies will have the ability to block attacks periodically, using a shield stat to reduce damage proportionally.
