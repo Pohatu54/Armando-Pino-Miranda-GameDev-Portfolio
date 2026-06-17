@@ -109,3 +109,8 @@ prior to this update).
 - Skeleton Boss drops Shortsword, 10 xp and 5 coins.
 - Enemies now patrol between 2 way points in a straight line instead of moving randomly.
 - Fixed enemies to use the proper damage of their weapon.
+- Enemies no longer react to attacks when they are dead. Dead enemies are no longer solid.
+- Fixed a bug that sometimes made loot not disappear upon picking up, thus making it infinite.
+- Player's rotation speed has increased from 45º to 90º.
+- Fixed a bug that caused dead enemies to loop between blocking and dying animation.
+- Skeleton Boss size adjusted to 1.5 times the size of a regular Skeleton to prevent it from getting stuck in wall archs sometimes.
