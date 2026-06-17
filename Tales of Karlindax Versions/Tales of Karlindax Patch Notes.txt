@@ -107,3 +107,5 @@ prior to this update).
 - Added new enemy: Skeleton Boss (equipped with Shortsword, Wooden Shield and Cloth Robes) (twice as big as regular Skeleton)
 - Skeleton Boss stats: 1.2 attack, 15 health, 0.2 damage reduction, 0.2 shield
 - Skeleton Boss drops Shortsword, 10 xp and 5 coins.
+- Enemies now patrol between 2 way points in a straight line instead of moving randomly.
+- Fixed enemies to use the proper damage of their weapon.
