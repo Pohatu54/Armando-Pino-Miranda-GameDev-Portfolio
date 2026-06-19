@@ -94,7 +94,8 @@ prior to this update).
 - Added new item: Shortsword (a better version of the Rusty Sword)
 - While inventory is open, the player can no longer move, attack, etc.
 - Added new item: Wooden Shield (a better version of the Old Wooden Shield, slightly heavier)
-*unknown date and update*
+19/jun/2026
+0.4.0 Big Skull Update
 - Added new item: Cloth Robes (a better version of the Worn-out robes, slightly heavier)
 - Player can no longer carry more than 8 items (the amount of slots shown in inventory)
 - Scenario updated.
@@ -114,3 +115,4 @@ prior to this update).
 - Player's rotation speed has increased from 45º to 90º.
 - Fixed a bug that caused dead enemies to loop between blocking and dying animation.
 - Skeleton Boss size adjusted to 1.5 times the size of a regular Skeleton to prevent it from getting stuck in wall archs sometimes.
+- Fixed a bug that didn't update the inventory properly when opened for the first time.
