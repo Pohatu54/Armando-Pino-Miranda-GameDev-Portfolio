@@ -121,3 +121,4 @@ prior to this update).
 - Player physics updated to work better than before.
 - Player now stores data properly and loads data when loading scene. (Stores level, stats, etc.)
 - Health and stamina are shown as numbers above the sliders. Every decimal shown in the game is rounded to 2 figures.
+- Equipment is now permanently shown at the bottom left part of the screen. Inventory has been rearranged.
