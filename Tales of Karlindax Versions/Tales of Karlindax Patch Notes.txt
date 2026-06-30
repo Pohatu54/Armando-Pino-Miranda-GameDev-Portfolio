@@ -125,3 +125,8 @@ prior to this update).
 - Equipment is now permanently shown at the bottom left part of the screen. Inventory has been rearranged.
 - Attacks now only deal damage while attacking animation is on, to prevent getting damage from touching weapons
 or damaging objects when characters are dead or not attacking.
+*unknown date and update*
+- Added iron bars door.
+- Added pressure plate.
+- When a pressure plate is pressed, an iron door is opened.
+- Chest model updated. Now chests play an "open" animation instead of disappearing when loot is taken.
