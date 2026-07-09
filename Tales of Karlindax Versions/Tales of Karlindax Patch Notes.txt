@@ -131,7 +131,9 @@ or damaging objects when characters are dead or not attacking.
 - Added pressure plate.
 - When a pressure plate is pressed, an iron door is opened.
 - Chest model updated. Now chests play an "open" animation instead of disappearing when loot is taken.
-*unknown date and update*
+
+9/jul/2026
+0.5.0 Labyrinth Update
 - Starting Room designed. One exit door with 2 chests. Loot both to spawn next room.
 - Treasure Room designed. Three exit doors with a chest for each. Pick a chest, open its closest door, delete other chests, spawn room.
 - Battle Room designed. 2 exit doors with a pressure plate for each. Plates appear when all enemies are dead, and disappear
