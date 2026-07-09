@@ -131,3 +131,15 @@ or damaging objects when characters are dead or not attacking.
 - Added pressure plate.
 - When a pressure plate is pressed, an iron door is opened.
 - Chest model updated. Now chests play an "open" animation instead of disappearing when loot is taken.
+*unknown date and update*
+- Starting Room designed. One exit door with 2 chests. Loot both to spawn next room.
+- Treasure Room designed. Three exit doors with a chest for each. Pick a chest, open its closest door, delete other chests, spawn room.
+- Battle Room designed. 2 exit doors with a pressure plate for each. Plates appear when all enemies are dead, and disappear
+when you step on one of them to open the closest door and spawn a room.
+- Spawning a room is randomized between treasure room and battle room.
+- A procedural random labyrinth system is the new map. The labyrinth grows as you finish each room.
+- Chest loot is now random.
+- Battle rooms spawn more enemies according to player level. Those enemies are stronger types as well.
+- Melee weapons reach has been increased to hit properly.
+- Enemies no longer follow you neither rotate towards you while attacking animation is on.
+- Left chest in Starting Room always contains a Rusty Sword.
