@@ -29,6 +29,18 @@ is in great condition.
 - id: 8 name: "Cloth Robes" shield/bow/melee: base/backstab damage:0 armor: true damage reduction:0.2 consumable: ammo: healing:0
   weight: 2.5 price: 8 durability:60 description: These comfy robes are soft and durable, offering a decent protection.
 
-- id: name: shield/bow/melee: base/backstab damage: armor: damage reduction: consumable: ammo: healing:
-  weight: price: durability: description: 
+- id: 9 name: "Spear" shield/bow/melee: melee base/backstab damage: 4/5 armor: damage reduction:0 consumable: ammo: healing:0
+  weight: 1.5 price: 15 durability: 40 description: The standard medium ranged weapon. Hit'em from a safe distance, don't take risks.
 
+- id: 10 name: "Dagger" shield/bow/melee: melee base/backstab damage: 3/8 armor: damage reduction:0 consumable: ammo: healing:0
+  weight: 0.5 price: 8 durability: 40  description: Built for deadly precision. A light weapon designed for backstabbing, not
+so good at face-to-face combat.
+
+- id:  name:  shield/bow/melee:  base/backstab damage:  armor: damage reduction:0 consumable: ammo: healing:0
+  weight:  price:  durability:  description: 
+
+- id:  name:  shield/bow/melee:  base/backstab damage:  armor: damage reduction:0 consumable: ammo: healing:0
+  weight:  price:  durability:  description: 
+
+- id:  name:  shield/bow/melee:  base/backstab damage:  armor: damage reduction:0 consumable: ammo: healing:0
+  weight:  price:  durability:  description: 

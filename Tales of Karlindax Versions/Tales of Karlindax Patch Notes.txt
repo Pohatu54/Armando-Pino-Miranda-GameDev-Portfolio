@@ -145,3 +145,11 @@ when you step on one of them to open the closest door and spawn a room.
 - Melee weapons reach has been increased to hit properly.
 - Enemies no longer follow you neither rotate towards you while attacking animation is on.
 - Left chest in Starting Room always contains a Rusty Sword.
+
+*unknown date and update*
+- Added Spear weapon.
+- Added Dagger weapon.
+- Fixed bug that made enemies play attack and block animations while dead.
+- Attacks now deal damage for longer time to be more precise with attack animations.
+- Player now can't move while attacking.
+- Randomized rooms now have different odds (battle rooms are more common than treasure rooms).
