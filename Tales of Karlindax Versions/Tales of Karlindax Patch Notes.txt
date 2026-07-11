@@ -153,3 +153,7 @@ when you step on one of them to open the closest door and spawn a room.
 - Attacks now deal damage for longer time to be more precise with attack animations.
 - Player now can't move while attacking.
 - Randomized rooms now have different odds (battle rooms are more common than treasure rooms).
+- Player now can't move while blocking.
+- Battle rooms' difficulty according to player level has been readjusted.
+- Enemies now can't move while blocking.
+- Detailed selected item information on inventory no longer stays on the screen after closing inventory.
