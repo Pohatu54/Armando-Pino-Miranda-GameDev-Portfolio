@@ -146,7 +146,8 @@ when you step on one of them to open the closest door and spawn a room.
 - Enemies no longer follow you neither rotate towards you while attacking animation is on.
 - Left chest in Starting Room always contains a Rusty Sword.
 
-*unknown date and update*
+12/jul/2026
+0.5.1 Spear and Dagger Update
 - Added Spear weapon.
 - Added Dagger weapon.
 - Fixed bug that made enemies play attack and block animations while dead.
@@ -157,3 +158,4 @@ when you step on one of them to open the closest door and spawn a room.
 - Battle rooms' difficulty according to player level has been readjusted.
 - Enemies now can't move while blocking.
 - Detailed selected item information on inventory no longer stays on the screen after closing inventory.
+- Credits added.
