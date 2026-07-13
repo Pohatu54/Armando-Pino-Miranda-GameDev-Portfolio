@@ -159,3 +159,9 @@ when you step on one of them to open the closest door and spawn a room.
 - Enemies now can't move while blocking.
 - Detailed selected item information on inventory no longer stays on the screen after closing inventory.
 - Credits added.
+
+*unknown date and update*
+- Rooms check for blocked paths behind doors to prevent the player from opening them.??
+- Fixed enemy loot bug that made it believe it was a chest to randomize.
+- Fixed chest bug that allowed randomized chests to stack non-stackable items.
+- Fixed chest bug that crashed when a Rusty Sword appeared in a random chest because of its special id.
