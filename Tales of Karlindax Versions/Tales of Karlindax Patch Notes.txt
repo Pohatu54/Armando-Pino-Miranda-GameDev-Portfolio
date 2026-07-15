@@ -169,3 +169,5 @@ when you step on one of them to open the closest door and spawn a room.
 - Fixed bug that allowed player to walk while attacking because blocking script overwrote it.
 - Tweaked scripts that prevented enemies from moving while attacking.
 - Arrows are now properly positioned when shot.
+- Enemies' time interval for blocking has been increased from 2 to 2.5 seconds to avoid happening at the same time as attacks.
+- Added Boss room. It always shows up as the next room once the player hits level 5. Beat the boss and get the victory screen.
