@@ -160,7 +160,8 @@ when you step on one of them to open the closest door and spawn a room.
 - Detailed selected item information on inventory no longer stays on the screen after closing inventory.
 - Credits added.
 
-*unknown date and update*
+16/jul/2026
+0.6.0 Goblin Glory Update
 - Rooms check for blocked paths behind doors to prevent the player from opening them.
 - Fixed enemy loot bug that made it believe it was a chest to randomize.
 - Fixed chest bug that allowed randomized chests to stack non-stackable items.
