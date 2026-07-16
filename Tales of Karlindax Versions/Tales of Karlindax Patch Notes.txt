@@ -171,6 +171,9 @@ when you step on one of them to open the closest door and spawn a room.
 - Arrows are now properly positioned when shot.
 - Enemies' time interval for blocking has been increased from 2 to 2.5 seconds to avoid happening at the same time as attacks.
 - Added Boss room. It always shows up as the next room once the player hits level 5. Beat the boss and get the victory screen.
-- Added Goblin Thug (does not appear yet). Equipment: Dagger. Attack stat: 0.7. Health: 8. Loot: 3 xp, 1 coin(s), Dagger.
-- Added Goblin Spearman (does not appear yet). Equipment: Spear. Attack stat: 0.6. Health: 9. Loot: 4 xp, 2 coin(s), Spear.
-- Added Goblin Archer (does not appear yet). (nothing else done yet)
+- Added Goblin Thug. Equipment: Dagger. Attack stat: 0.7. Health: 8. Loot: 3 xp, 1 coin(s), Dagger.
+- Added Goblin Spearman. Equipment: Spear. Attack stat: 0.6. Health: 9. Loot: 4 xp, 2 coin(s), Spear.
+- Added Goblin Archer. Equipment: Shortbow. Attack stat: 0.7. Health: 7. Loot: 3 xp, 1 coin(s), Shortbow.
+- Added Goblin Druid. Equipment: Dagger, several Small potions (can't use them).
+Attack stat: 0.9. Health: 10. Loot: 5 xp, 3 coin(s), Small potion (x2).
+- Added Battle Room 2, where you can find: Goblin Thug, Goblin Spearman, Goblin Archer and Goblin Druid.
