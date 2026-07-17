@@ -178,3 +178,10 @@ when you step on one of them to open the closest door and spawn a room.
 - Added Goblin Druid. Equipment: Dagger, several Small potions (can't use them).
 Attack stat: 0.9. Health: 10. Loot: 5 xp, 3 coin(s), Small potion (x2).
 - Added Battle Room 2, where you can find: Goblin Thug, Goblin Spearman, Goblin Archer and Goblin Druid.
+
+*unknown date and update*
+- Fixed boss spawning in wrong orientation and fixed boss room code.
+- Fixed inventory bug that destroyed several copies of a repeated unequipped item when you used the destroy button.
+- Fixed bug that unequipped a repeated equipped item when a non-equipped copy was destroyed.
+- Retry button now restores the player and sends them back to spawn point, instead of reloading scene.
+This means looted chests, dead enemies, generated rooms... will stay as they are unless you go back to main menu or close the game.
