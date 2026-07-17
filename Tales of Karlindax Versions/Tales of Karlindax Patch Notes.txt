@@ -185,3 +185,9 @@ Attack stat: 0.9. Health: 10. Loot: 5 xp, 3 coin(s), Small potion (x2).
 - Fixed bug that unequipped a repeated equipped item when a non-equipped copy was destroyed.
 - Retry button now restores the player and sends them back to spawn point, instead of reloading scene.
 This means looted chests, dead enemies, generated rooms... will stay as they are unless you go back to main menu or close the game.
+- Added Skeleton Swordsman. Equipment: Shortsword. Attack stat: 0.8. Health: 10. Loot: 3 xp, 1 coin, Shortsword.
+(Same attack, health and money as a regular Skeleton) (Does not appear yet)
+- Added Skeleton Noble. Equipment: Shortsword, Cloth Robes. Attack stat: 0.8. Health: 10. Damage reduction: 0.2
+Loot: 4 xp, 5 coins, Cloth Robes. (Same attack and health as Skeleton Dressed) (Does not appear yet)
+- Added Skeleton Guard. Equipment: Shortsword, Wooden Shield. Attack stat: 0.8. Health: 10. Shield damage reduction: 0.2
+Loot: 4 xp, 2 coins, Wooden Shield. (Same attack and health as Skeleton Shield) (Does not appear yet)
