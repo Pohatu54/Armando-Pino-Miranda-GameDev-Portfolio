@@ -36,8 +36,8 @@ is in great condition.
   weight: 0.5 price: 8 durability: 40  description: Built for deadly precision. A light weapon designed for backstabbing, not
 so good at face-to-face combat.
 
-- id:  name:  shield/bow/melee:  base/backstab damage:  armor: damage reduction:0 consumable: ammo: healing:0
-  weight:  price:  durability:  description: 
+- id: 11 name: "Leather Armor" shield/bow/melee:  base/backstab damage: 0 armor: true damage reduction:0.3 consumable: ammo: healing:0
+  weight: 5  price: 12  durability: 70  description: Light, resistant, and durable. The perfect choice for ranged or stealthy combatants.
 
 - id:  name:  shield/bow/melee:  base/backstab damage:  armor: damage reduction:0 consumable: ammo: healing:0
   weight:  price:  durability:  description: 

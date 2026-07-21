@@ -179,15 +179,21 @@ when you step on one of them to open the closest door and spawn a room.
 Attack stat: 0.9. Health: 10. Loot: 5 xp, 3 coin(s), Small potion (x2).
 - Added Battle Room 2, where you can find: Goblin Thug, Goblin Spearman, Goblin Archer and Goblin Druid.
 
-*unknown date and update*
+21/jul/2026
+0.6.1 Back to the grave Update
 - Fixed boss spawning in wrong orientation and fixed boss room code.
 - Fixed inventory bug that destroyed several copies of a repeated unequipped item when you used the destroy button.
 - Fixed bug that unequipped a repeated equipped item when a non-equipped copy was destroyed.
 - Retry button now restores the player and sends them back to spawn point, instead of reloading scene.
 This means looted chests, dead enemies, generated rooms... will stay as they are unless you go back to main menu or close the game.
 - Added Skeleton Swordsman. Equipment: Shortsword. Attack stat: 0.8. Health: 10. Loot: 3 xp, 1 coin, Shortsword.
-(Same attack, health and money as a regular Skeleton) (Does not appear yet)
+(Same attack, health and money as a regular Skeleton)
 - Added Skeleton Noble. Equipment: Shortsword, Cloth Robes. Attack stat: 0.8. Health: 10. Damage reduction: 0.2
-Loot: 4 xp, 5 coins, Cloth Robes. (Same attack and health as Skeleton Dressed) (Does not appear yet)
+Loot: 4 xp, 5 coins, Cloth Robes. (Same attack and health as Skeleton Dressed)
 - Added Skeleton Guard. Equipment: Shortsword, Wooden Shield. Attack stat: 0.8. Health: 10. Shield damage reduction: 0.2
-Loot: 4 xp, 2 coins, Wooden Shield. (Same attack and health as Skeleton Shield) (Does not appear yet)
+Loot: 4 xp, 2 coins, Wooden Shield. (Same attack and health as Skeleton Shield)
+- Added new item: Leather Armor. (Uses same model as Cloth Robes)
+- Added Skeleton Bowmaster. Equipment: Shortbow, Leather Armor. Attack stat: 0.8. Health: 6. Damage reduction: 0.3
+Loot: 5 xp, 4 coins, Leather Armor. (Same attack and health as Skeleton Archer)
+- Added Battle Room 3, where you can find: Skeleton Swordsman, Skeleton Noble, Skeleton Guard, Skeleton Bowmaster.
+- Enemy spawns have been reoriented to avoid overlapping patrol routes. Walls and doors have been slightly moved.
