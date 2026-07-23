@@ -197,3 +197,9 @@ Loot: 4 xp, 2 coins, Wooden Shield. (Same attack and health as Skeleton Shield)
 Loot: 5 xp, 4 coins, Leather Armor. (Same attack and health as Skeleton Archer)
 - Added Battle Room 3, where you can find: Skeleton Swordsman, Skeleton Noble, Skeleton Guard, Skeleton Bowmaster.
 - Enemy spawns have been reoriented to avoid overlapping patrol routes. Walls and doors have been slightly moved.
+
+*unknown date and update*
+- Fixed bug that made rooms not detect blocked paths.
+- Added altars to set player's spawn point. Starting Room has now an altar.
+- Added Altar Room. It includes an altar and a single door with a pressure plate.
+- Previous room odds: 75% battle/25% treasure. New room odds: 70% battle/15% treasure/15% altar.
