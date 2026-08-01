@@ -198,8 +198,11 @@ Loot: 5 xp, 4 coins, Leather Armor. (Same attack and health as Skeleton Archer)
 - Added Battle Room 3, where you can find: Skeleton Swordsman, Skeleton Noble, Skeleton Guard, Skeleton Bowmaster.
 - Enemy spawns have been reoriented to avoid overlapping patrol routes. Walls and doors have been slightly moved.
 
-*unknown date and update*
+1/aug/2026
+0.6.2 Altar Update
 - Fixed bug that made rooms not detect blocked paths.
 - Added altars to set player's spawn point. Starting Room has now an altar.
 - Added Altar Room. It includes an altar and a single door with a pressure plate.
 - Previous room odds: 75% battle/25% treasure. New room odds: 70% battle/15% treasure/15% altar.
+- When player is close to an altar, a pop up message shows up to tell them they can set it as their spawn point.
+- When player is close to loot, a pop up message shows up because the player's character speaks about it, depending on the loot.
